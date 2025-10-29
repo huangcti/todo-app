@@ -1,0 +1,11 @@
+[project]
+name = "taskmaster"
+version = "0.1.0"
+description = "A beautiful CLI To-Do app with Rich UI"
+dependencies = [
+    "click>=8.3.0",
+    "pydantic>=2.12.3",
+    "rich>=14.2.0",
+]
+
+[tool.uv]
