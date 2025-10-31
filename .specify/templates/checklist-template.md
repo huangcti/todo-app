@@ -1,5 +1,7 @@
 # [CHECKLIST TYPE] Checklist: [FEATURE NAME]
 
+> 注意：此專案產出的清單與檢查項目應以中文編寫，並遵循 `.specify/memory/constitution.md` 中的原則。
+
 **Purpose**: [Brief description of what this checklist covers]
 **Created**: [DATE]
 **Feature**: [Link to spec.md or relevant documentation]

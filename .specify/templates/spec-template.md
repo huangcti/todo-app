@@ -1,5 +1,7 @@
 # Feature Specification: [FEATURE NAME]
 
+> 注意：本專案所有規格文件（spec、plan、tasks 等）必須以中文撰寫。
+
 **Feature Branch**: `[###-feature-name]`  
 **Created**: [DATE]  
 **Status**: Draft  
